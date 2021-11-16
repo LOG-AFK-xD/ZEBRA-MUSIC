@@ -1,9 +1,9 @@
 {
-    "name": "Zaid Music Bot",
-    "logo": "https://telegra.ph/file/95e785dea2717adf59de6.png",
+    "name": "ZEBRA Music Bot",
+    "logo": "https://telegra.ph/file/1caf90d4f9644173944d5.jpg",
     "description": "Zaid music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Itsunknown-12/Zaid-Vc-Player",
+    "repository": "https://github.com/Harshpanditxd/ZEBRA-MUSIC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -27,17 +27,17 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "Zaid_Music_Bot"
+            "value": "Zebra_Music_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "Zaid_Assistant"
+            "value": "Zebra_Assistant"
         },
         "OWNER_NAME": {
             "description": "fill with your username without @",
             "required": false,
-            "value": "Timesisnotwaiting"
+            "value": "harsh_shukla_xd"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -59,7 +59,7 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "Superior_Bots"
+            "value": "Team_Blaze_FIGHTER"
         },
         "DATABASE_URL": {
             "description": "mongo db url leave if u don't have",
