@@ -1,6 +1,6 @@
-<h2 align="centre"> ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> ZEBRA-MUSIC🔥</h2>
 
-### ZEBRA-MUSIC
+### 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
 
 <p align="center"><a href="https://t.me/Full_On_mstii"><img src="https://telegra.ph/file/1caf90d4f9644173944d5.jpg" width="300"></a></p>
 <p align="center">
