@@ -7,11 +7,11 @@ aiohttp
 youtube_search_python
 asyncio
 youtube_search
-git+https://github.com/Itsunknown-12/yt-dl@master
+git+https://github.com/ITZ-ZAID/yt-dl@master
 search_engine_parser
 wget
 python-arq
-git+https://github.com/Itsunknown-12/yt-dl@master
+git+https://github.com/ITZ-ZAID/yt-dl@master
 aiofiles
 ffmpeg
 requests
